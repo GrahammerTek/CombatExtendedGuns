@@ -1940,7 +1940,7 @@
 			<ComponentIndustrial>4</ComponentIndustrial>
 			<WoodLog>5</WoodLog>
 		</costList>
-		<weaponTags Inherit="False">
+		<weaponTags>
 			<li>GunHeavy</li>
 			<li>CE_AI_AOE</li>
 		</weaponTags>
@@ -2116,7 +2116,7 @@
 			<ComponentIndustrial>3</ComponentIndustrial>
 			<Chemfuel>10</Chemfuel>
 		</costList>
-		<weaponTags Inherit="False">
+		<weaponTags>
 			<li>GunGrenadeLauncher</li>
 			<li>GunHeavy</li>
 			<li>CE_AI_AOE</li>
@@ -2921,7 +2921,7 @@
 			<ComponentIndustrial>3</ComponentIndustrial>
 			<Chemfuel>10</Chemfuel>
 		</costList>
-		<weaponTags Inherit="False">
+		<weaponTags>
 			<li>GunHeavy</li>
 			<li>CE_AI_AOE</li>
 		</weaponTags>
