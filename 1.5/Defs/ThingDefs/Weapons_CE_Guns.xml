@@ -3052,7 +3052,7 @@
 				<ticksBetweenBurstShots>3</ticksBetweenBurstShots>
 				<burstShotCount>20</burstShotCount>
 				<soundCast>HissFlamethrower</soundCast>
-				<muzzleFlashScale>0</muzzleFlashScale>
+				<muzzleFlashScale>20</muzzleFlashScale>
 				<targetParams>
 					<canTargetLocations>true</canTargetLocations>
 				</targetParams>
