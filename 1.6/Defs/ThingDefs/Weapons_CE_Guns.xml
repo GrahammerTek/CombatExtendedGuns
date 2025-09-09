@@ -2125,7 +2125,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/RPG</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>1.45</drawSize>
+			<drawSize>(1.38,1.38)</drawSize>
 		</graphicData>
 		<soundInteract>Interact_Rifle</soundInteract>
 		<weaponClasses>
@@ -2145,7 +2145,7 @@
 			<ComponentIndustrial>4</ComponentIndustrial>
 			<WoodLog>5</WoodLog>
 		</costList>
-		<weaponTags Inherit="False">
+		<weaponTags>
 			<li>GunHeavy</li>
 			<li>CE_AI_AOE</li>
 		</weaponTags>
@@ -2230,8 +2230,7 @@
 			<ComponentIndustrial>3</ComponentIndustrial>
 			<Chemfuel>10</Chemfuel>
 		</costList>
-		<weaponTags Inherit="False">
-			<li>GunGrenadeLauncher</li>
+		<weaponTags>
 			<li>GunHeavy</li>
 			<li>CE_AI_AOE</li>
 		</weaponTags>
@@ -3035,8 +3034,8 @@
 			<ComponentIndustrial>3</ComponentIndustrial>
 			<Chemfuel>10</Chemfuel>
 		</costList>
-		<weaponTags Inherit="False">
-			<li>Flamethrower</li>
+		<weaponTags>
+			<li>GunHeavy</li>
 			<li>CE_AI_AOE</li>
 		</weaponTags>
 		<verbs>
