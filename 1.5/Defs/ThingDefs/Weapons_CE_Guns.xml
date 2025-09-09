@@ -2125,7 +2125,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/RPG</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>(1.38,1.38)</drawSize>
+			<drawSize>1.45</drawSize>
 		</graphicData>
 		<soundInteract>Interact_Rifle</soundInteract>
 		<weaponClasses>
@@ -2196,7 +2196,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>-0.2,0.0</DrawOffset>
+				<DrawOffset>-0.1,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
