@@ -2240,7 +2240,7 @@
 			<li Class="CombatExtended.VerbPropertiesCE">
 				<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 				<hasStandardCommand>true</hasStandardCommand>
-				<defaultProjectile>Bullet_127mmJavelinMissile</defaultProjectile>
+				<defaultProjectile>Bullet_127mmJavelinMissile_HEAT</defaultProjectile>
 				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
 				<warmupTime>6</warmupTime>
 				<range>86</range>
